@@ -1,2 +1,2 @@
 # Testing-Selenium-Beca
-Projeto feito em dupla para criação dos primeiros testes automatizados usando Selenium ;)
+Project carried out in the Beca everis training for the first automated web tests using Selenium ;)
